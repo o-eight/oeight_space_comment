@@ -1,0 +1,2 @@
+# oeight_space_comment
+oeight.spaceのutterancesによるコメントのためのリポジトリです
